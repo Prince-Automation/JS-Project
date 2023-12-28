@@ -1,0 +1,1 @@
+The entire website is built with JS and Jquery. The page contians Login, Home, Products, About Us, Carts, Payments and receipts page.
